@@ -1,4 +1,4 @@
-TARGET='/mnt/d/Lab/projects/swerc-notebook'
+TARGET='./'
 
 cd $TARGET
 
